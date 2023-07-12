@@ -1,0 +1,7 @@
+C:\EdgeaxisProject\Task01\Task01\bin\Debug\Task01.exe.config
+C:\EdgeaxisProject\Task01\Task01\bin\Debug\Task01.exe
+C:\EdgeaxisProject\Task01\Task01\bin\Debug\Task01.pdb
+C:\EdgeaxisProject\Task01\Task01\obj\Debug\Task01.csproj.AssemblyReference.cache
+C:\EdgeaxisProject\Task01\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\EdgeaxisProject\Task01\Task01\obj\Debug\Task01.exe
+C:\EdgeaxisProject\Task01\Task01\obj\Debug\Task01.pdb
